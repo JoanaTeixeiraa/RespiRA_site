@@ -74,13 +74,13 @@ A randomização será realizada após avaliação basal, utilizando sequência 
 
 O percurso global dos participantes, desde a identificação inicial até à análise de dados, encontra-se representado na Figura 1.
 
-![](imagens/diagrama_atividades.png){width=45%}
+![](diagrama_atividades.png){width=45%}
 
 *Figura 1. Diagrama de atividades do percurso dos participantes no ensaio clínico.*
 
 O fluxograma CONSORT do estudo, incluindo os momentos de elegibilidade, alocação, seguimento e análise, encontra-se apresentado na Figura 2. Nos campos em que os valores reais ainda não estão disponíveis, é utilizada a notação `n = ?`.
 
-![](imagens/fluxograma_consort.png){width=75%}
+![](fluxograma_consort.png){width=75%}
 
 *Figura 2. Fluxograma CONSORT do ensaio clínico.*
 
@@ -156,7 +156,7 @@ As principais funcionalidades da aplicação e a interação dos utilizadores co
 
 Este diagrama evidencia a interação entre o participante e o sistema, incluindo o registo de dados clínicos (ACT e peak flow), a gestão da medicação e a consulta de informação educativa. O profissional de saúde interage com o sistema através da consulta da evolução clínica, permitindo uma monitorização mais estruturada do controlo da asma.
 
-![](imagens/diagrama_casos_uso.png){width=75%}
+![](diagrama_casos_uso.png){width=75%}
 
 *Figura 3. Diagrama de casos de uso da aplicação RespiRA.*
 
@@ -164,7 +164,7 @@ O fluxo de utilização da aplicação, desde o acesso inicial até à submissã
 
 O fluxo inclui pontos de decisão, nomeadamente a validação dos dados introduzidos pelo utilizador, distinguindo situações válidas de entradas inválidas, com geração de mensagens de erro e necessidade de nova introdução de dados.
 
-![](imagens/diagrama_utilizacao_app.png){width=55%}
+![](diagrama_utilizacao_app.png){width=55%}
 
 *Figura 4. Diagrama de utilização da aplicação RespiRA.*
 
@@ -172,7 +172,7 @@ O processo específico de registo de peak flow, incluindo validação do valor, 
 
 Este processo evidencia a sequência de interações entre o utilizador, a aplicação e a base de dados, incluindo validação do valor introduzido, armazenamento dos dados e atualização do histórico clínico, garantindo consistência e rastreabilidade da informação.
 
-![](imagens/diagrama_sequencias.png){width=75%}
+![](diagrama_sequencias.png){width=75%}
 
 *Figura 5. Diagrama de sequências do registo de peak flow na aplicação RespiRA.*
 
