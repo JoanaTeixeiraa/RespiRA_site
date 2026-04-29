@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "*.png"
 
 website:
   title: "RespiRA"
