@@ -22,15 +22,15 @@ As principais funcionalidades incluem:
 
 ### Diagrama de casos de uso
 
-![](imagens/diagrama_casos_uso.png){width=75%}
+![](diagrama_casos_uso.png){width=75%}
 
 ### Diagrama de utilização da app
 
-![](imagens/diagrama_utilizacao_app.png){width=55%}
+![](diagrama_utilizacao_app.png){width=55%}
 
 ### Diagrama de sequências
 
-![](imagens/diagrama_sequencias.png){width=75%}
+![](diagrama_sequencias.png){width=75%}
 
 ## Protótipo Figma
 
