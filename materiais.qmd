@@ -1,0 +1,37 @@
+---
+title: "Materiais"
+---
+
+# Materiais
+
+Esta página reúne os materiais associados ao estudo RespiRA.
+
+## Aplicação RespiRA
+
+A aplicação RespiRA foi desenhada para apoiar a autogestão da asma em adultos com asma moderada persistente.
+
+As principais funcionalidades incluem:
+
+- preenchimento do Asthma Control Test (ACT);
+- registo de peak flow;
+- lembretes de medicação;
+- consulta do plano de ação;
+- acesso a conteúdos educativos.
+
+## Diagramas da aplicação
+
+### Diagrama de casos de uso
+
+![](imagens/diagrama_casos_uso.png){width=75%}
+
+### Diagrama de utilização da app
+
+![](imagens/diagrama_utilizacao_app.png){width=55%}
+
+### Diagrama de sequências
+
+![](imagens/diagrama_sequencias.png){width=75%}
+
+## Protótipo Figma
+
+O link para o protótipo será inserido aqui após conclusão pela Pessoa 4.

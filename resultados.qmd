@@ -1,0 +1,19 @@
+---
+title: "Resultados"
+---
+
+# Resultados
+
+Esta página apresentará os resultados da análise estatística do estudo RespiRA.
+
+## Tabela 1
+
+A tabela descritiva dos participantes será inserida aqui após conclusão da análise em R.
+
+## Evolução do ACT
+
+O gráfico da evolução do Asthma Control Test (ACT) às 12 semanas será inserido aqui.
+
+## Integração com análise em R
+
+A análise será preparada no ficheiro `analysis.R` pela Pessoa 2.
