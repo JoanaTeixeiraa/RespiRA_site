@@ -4,34 +4,77 @@ title: "Materiais"
 
 # Materiais
 
-Esta página reúne os materiais associados ao estudo RespiRA.
+Esta página reúne os principais materiais associados ao estudo RespiRA, incluindo os instrumentos de recolha de dados, o formulário eletrónico, os diagramas funcionais e o protótipo da aplicação.
+
+## CRF / eCRF
+
+O formulário de recolha de dados clínicos foi desenvolvido para estruturar a recolha das variáveis do estudo RespiRA. Inclui informação sobre critérios de elegibilidade, caracterização basal, avaliações clínicas, outcomes, exacerbações, idas à urgência e satisfação com os cuidados recebidos.
+
+[Descarregar eCRF em PDF](materiais/ecrf_respira.pdf)
+
+## REDCap
+
+O projeto REDCap foi configurado para permitir a recolha estruturada dos dados do estudo. O dicionário de dados define as variáveis, tipos de campo, opções de resposta e regras de codificação utilizadas no formulário eletrónico.
+
+[Descarregar dicionário de dados REDCap](materiais/redcap_data_dictionary.csv)
 
 ## Aplicação RespiRA
 
-A aplicação RespiRA foi desenhada para apoiar a autogestão da asma em adultos com asma moderada persistente.
+A aplicação RespiRA foi desenhada para apoiar a autogestão da asma em adultos com asma moderada persistente. O objetivo é facilitar a monitorização regular da doença e apoiar o reconhecimento precoce de agravamentos.
 
 As principais funcionalidades incluem:
 
-- preenchimento do Asthma Control Test (ACT);
-- registo de peak flow;
-- lembretes de medicação;
-- consulta do plano de ação;
-- acesso a conteúdos educativos.
+- preenchimento periódico do Asthma Control Test (ACT);
+- registo de valores de peak flow;
+- lembretes personalizados de medicação;
+- consulta de plano de ação individualizado;
+- acesso a conteúdos educativos;
+- visualização da evolução clínica ao longo do tempo.
 
-## Diagramas da aplicação
+## Diagramas da aplicação e do estudo
+
+Os diagramas representam a lógica do ensaio clínico e a interação dos utilizadores com a aplicação RespiRA.
+
+### Diagrama de atividades do ensaio
+
+Este diagrama descreve o percurso dos participantes desde a identificação inicial, verificação dos critérios de elegibilidade, consentimento informado, randomização e acompanhamento ao longo das 12 semanas.
+
+![](diagrama_atividades.png){width=45%}
+
+### Fluxograma CONSORT
+
+O fluxograma CONSORT apresenta a estrutura do ensaio, incluindo elegibilidade, alocação, seguimento e análise dos participantes.
+
+![](fluxograma_consort.png){width=75%}
 
 ### Diagrama de casos de uso
 
+O diagrama de casos de uso representa as principais funcionalidades da aplicação RespiRA e os atores envolvidos, nomeadamente o participante e o profissional de saúde.
+
 ![](diagrama_casos_uso.png){width=75%}
 
-### Diagrama de utilização da app
+### Diagrama de utilização da aplicação
+
+Este diagrama descreve o fluxo de utilização da aplicação, desde o acesso inicial até ao registo de dados, validação da informação e atualização do histórico do utilizador.
 
 ![](diagrama_utilizacao_app.png){width=55%}
 
 ### Diagrama de sequências
 
+O diagrama de sequências detalha o processo de registo de peak flow, incluindo a interação entre utilizador, aplicação e base de dados.
+
 ![](diagrama_sequencias.png){width=75%}
 
 ## Protótipo Figma
 
-O link para o protótipo será inserido aqui após conclusão pela Pessoa 4.
+O protótipo da aplicação RespiRA será disponibilizado através de link Figma após conclusão do desenho dos ecrãs principais.
+
+Ecrãs mínimos previstos:
+
+- login;
+- dashboard;
+- preenchimento do ACT;
+- registo de peak flow;
+- visualização da evolução.
+
+[Link para o protótipo Figma a inserir]
