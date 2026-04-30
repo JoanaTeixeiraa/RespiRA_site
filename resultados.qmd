@@ -2,8 +2,6 @@
 title: "Resultados"
 ---
 
-# Resultados
-
 Esta página apresentará os resultados da análise estatística do estudo RespiRA.
 
 ## Tabela 1
