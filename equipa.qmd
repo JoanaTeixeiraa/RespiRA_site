@@ -2,8 +2,6 @@
 title: "Equipa"
 ---
 
-# Equipa
-
 ## Investigadores principais
 
 - Joana Teixeira, FMUP
