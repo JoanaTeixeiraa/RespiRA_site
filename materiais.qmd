@@ -2,8 +2,6 @@
 title: "Materiais"
 ---
 
-# Materiais
-
 Esta página reúne os principais materiais associados ao estudo RespiRA, incluindo os instrumentos de recolha de dados, o formulário eletrónico, os diagramas funcionais e o protótipo da aplicação.
 
 ## CRF / eCRF
