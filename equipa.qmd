@@ -4,7 +4,7 @@ title: "Equipa"
 
 # Equipa
 
-## Investigadores Principais
+## Investigadores principais
 
 - Joana Teixeira, FMUP
 - Mafalda Correia, FMUP
@@ -19,3 +19,16 @@ Faculdade de Medicina da Universidade do Porto
 
 up202506371@up.pt
 
+## Organização do trabalho
+
+O trabalho foi desenvolvido de forma colaborativa, com articulação entre as várias componentes do projeto: protocolo do ensaio, materiais de recolha de dados, análise estatística, desenvolvimento do website e protótipo da aplicação.
+
+A organização do grupo procurou garantir a coerência entre o cenário clínico, os objetivos do estudo, os instrumentos utilizados, a lógica da intervenção digital e a apresentação final no website.
+
+As tarefas foram distribuídas internamente, mantendo revisão conjunta dos conteúdos produzidos e validação final por todos os elementos do grupo.
+
+## Declaração de utilização de Inteligência Artificial
+
+Foram utilizadas ferramentas de inteligência artificial generativa como apoio à revisão linguística, organização do conteúdo, conversão de texto para formato Quarto/Markdown e estruturação do website.
+
+O conteúdo científico, as decisões metodológicas, a validação das referências e a versão final do trabalho permaneceram sob responsabilidade dos membros do grupo.
