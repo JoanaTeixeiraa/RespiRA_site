@@ -10,6 +10,14 @@ O formulário de recolha de dados clínicos foi desenvolvido para estruturar a r
 
 [Descarregar eCRF em PDF](materiais/ecrf_respira.pdf)
 
+## Análise do eCRF
+
+Foi realizada uma análise crítica do eCRF desenvolvido, com o objetivo de avaliar a estrutura do formulário, a adequação das variáveis recolhidas, a organização dos campos e a coerência com os objetivos do ensaio clínico.
+
+Este documento complementa o formulário de recolha de dados, permitindo justificar as opções tomadas na construção do eCRF e identificar aspetos relevantes para a qualidade e completude da recolha de dados.
+
+[Descarregar análise do eCRF](materiais/analise_ecrf_grupo7.pdf)
+
 ## REDCap
 
 O projeto REDCap foi configurado para permitir a recolha estruturada dos dados do estudo. O dicionário de dados define as variáveis, tipos de campo, opções de resposta e regras de codificação utilizadas no formulário eletrónico.
