@@ -2,8 +2,6 @@
 title: "Resultados"
 ---
 
-# Resultados
-
 Esta página apresenta os resultados preliminares da análise estatística do estudo piloto RespiRA.
 
 A análise inclui a caracterização basal dos participantes e a visualização do outcome primário, o Asthma Control Test (ACT) às 12 semanas.
