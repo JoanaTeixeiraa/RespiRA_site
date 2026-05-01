@@ -12,7 +12,7 @@ A análise inclui a caracterização basal dos participantes e a visualização 
 #| echo: false
 #| message: false
 #| warning: false
-source("analysis.R")
+source("analise.R")
 ```
 
 ## Tabela 1
