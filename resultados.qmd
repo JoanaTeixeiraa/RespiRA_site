@@ -2,16 +2,33 @@
 title: "Resultados"
 ---
 
-Esta página apresentará os resultados da análise estatística do estudo RespiRA.
+# Resultados
+
+Esta página apresenta os resultados preliminares da análise estatística do estudo piloto RespiRA.
+
+A análise inclui a caracterização basal dos participantes e a visualização do outcome primário, o Asthma Control Test (ACT) às 12 semanas.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+source("analysis.R")
+```
 
 ## Tabela 1
 
-A tabela descritiva dos participantes será inserida aqui após conclusão da análise em R.
+A Tabela 1 apresenta as características basais dos participantes, estratificadas por grupo de estudo.
 
-## Evolução do ACT
+```{r}
+#| echo: false
+tabela
+```
 
-O gráfico da evolução do Asthma Control Test (ACT) às 12 semanas será inserido aqui.
+## Evolução do ACT às 12 semanas
 
-## Integração com análise em R
+O gráfico seguinte apresenta a distribuição dos valores de ACT às 12 semanas nos grupos intervenção e controlo.
 
-A análise será preparada no ficheiro `analysis.R` pela Pessoa 2.
+```{r}
+#| echo: false
+grafico
+```
