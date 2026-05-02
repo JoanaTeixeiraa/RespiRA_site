@@ -73,9 +73,9 @@ O diagrama de sequências detalha o processo de registo de peak flow, incluindo 
 
 ## Protótipo Figma
 
-O protótipo da aplicação RespiRA será disponibilizado através de link Figma após conclusão do desenho dos ecrãs principais.
+O protótipo da aplicação RespiRA está disponível através de link Figma e inclui os ecrãs principais da aplicação.
 
-Ecrãs mínimos previstos:
+Ecrãs incluídos:
 
 - login;
 - dashboard;
@@ -84,4 +84,3 @@ Ecrãs mínimos previstos:
 - visualização da evolução.
 
 [Ver protótipo da aplicação RespiRA no Figma](https://www.figma.com/proto/IWmuWSqPlOIPMdWbxvlKT8/APP-RespiRA?node-id=17-486&p=f&t=qHzF63jdHBbPLuKI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=17%3A486&show-proto-sidebar=1)
-
