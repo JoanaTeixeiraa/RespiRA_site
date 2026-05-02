@@ -83,4 +83,5 @@ Ecrãs mínimos previstos:
 - registo de peak flow;
 - visualização da evolução.
 
-[Link para o protótipo Figma a inserir]
+[Ver protótipo da aplicação RespiRA no Figma](https://www.figma.com/proto/IWmuWSqPlOIPMdWbxvlKT8/APP-RespiRA?node-id=17-486&p=f&t=qHzF63jdHBbPLuKI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=17%3A486&show-proto-sidebar=1)
+
