@@ -85,4 +85,4 @@ Ecrãs incluídos:
 - registo de peak flow;
 - visualização da evolução.
 
-[Ver protótipo da aplicação RespiRA no Figma](https://www.figma.com/proto/IWmuWSqPlOIPMdWbxvlKT8/APP-RespiRA?node-id=17-486&p=f&t=qHzF63jdHBbPLuKI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=17%3A486&show-proto-sidebar=1)
+[Ver protótipo da aplicação RespiRA no Figma](https://www.figma.com/design/IWmuWSqPlOIPMdWbxvlKT8/APP-RespiRA?node-id=0-1&m=dev&t=5FbMRS4Xi6Lhgsz1-1)
