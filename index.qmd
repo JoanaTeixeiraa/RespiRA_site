@@ -1,30 +1,21 @@
 ---
+
 title: "RespiRA"
+
 ---
 
-O RespiRA é um ensaio clínico randomizado que avalia a eficácia de uma aplicação móvel de autogestão da asma em adultos com asma moderada persistente acompanhados em cuidados de saúde primários.
+\# RespiRA
 
-A aplicação foi pensada para apoiar o acompanhamento regular da doença, facilitar o registo de sintomas e promover maior envolvimento dos participantes na gestão da asma.
+O RespiRA é um ensaio clínico randomizado que avalia a eficácia de uma aplicação móvel de autogestão da asma em adultos com asma moderada persistente.
 
-## Contexto clínico
+O objetivo principal é avaliar se a utilização da aplicação RespiRA, em associação ao cuidado habitual, melhora o controlo da asma medido pelo Asthma Control Test (ACT) às 12 semanas.
 
-A asma é uma doença respiratória crónica associada a sintomas recorrentes, exacerbações, utilização de recursos de saúde e impacto na qualidade de vida. Apesar da existência de terapêuticas eficazes, muitos doentes mantêm controlo inadequado da doença.
+\## Estrutura do site
 
-Entre os fatores associados ao controlo subótimo encontram-se a baixa adesão à medicação inalatória, a técnica inalatória incorreta, a monitorização irregular dos sintomas e o reconhecimento tardio de exacerbações.
+\- \[Protocolo\](protocolo.qmd)
 
-## Intervenção
+\- \[Materiais\](materiais.qmd)
 
-A intervenção consiste na utilização da aplicação RespiRA, em associação ao cuidado habitual. A aplicação inclui funcionalidades de monitorização de sintomas, registo de peak flow, lembretes de medicação, plano de ação personalizado e conteúdos educativos.
+\- \[Resultados\](resultados.qmd)
 
-## Objetivo principal
-
-Avaliar se a utilização da aplicação RespiRA melhora o controlo da asma, medido pelo Asthma Control Test (ACT), às 12 semanas, comparativamente ao cuidado habitual isolado.
-
-## Estrutura do site
-
-Este site reúne os principais componentes do projeto:
-
-- [Protocolo](protocolo.qmd): versão revista do protocolo do ensaio clínico.
-- [Materiais](materiais.qmd): instrumentos de recolha de dados, REDCap, eCRF, diagramas e protótipo.
-- [Resultados](resultados.qmd): análise preliminar dos dados do pré-teste.
-- [Equipa](equipa.qmd): membros do grupo, papéis e declaração de utilização de IA.
+\- \[Equipa\](equipa.qmd)

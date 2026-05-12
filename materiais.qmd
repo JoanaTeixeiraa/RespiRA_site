@@ -2,7 +2,15 @@
 title: "Materiais"
 ---
 
-Esta página reúne os principais materiais associados ao estudo RespiRA, incluindo os instrumentos de recolha de dados, o formulário eletrónico, os diagramas funcionais e o protótipo da aplicação.
+Esta página reúne os principais materiais associados ao estudo RespiRA, incluindo os instrumentos de recolha de dados, o formulário eletrónico, os diagramas funcionais, o material de suporte à Investigator's Meeting e o protótipo da aplicação.
+
+## Investigator's Meeting
+
+Foi preparado material de suporte para uma apresentação de 10 a 15 minutos dirigida a investigadores e equipa clínica. A apresentação resume o racional do estudo, o desenho do ensaio, os procedimentos principais, os outcomes, os materiais de recolha de dados e a demonstração guiada do protótipo RespiRA.
+
+[Descarregar apresentação da Investigator's Meeting](materiais/investigators_meeting_respira.pptx)
+
+Durante a demonstração, a audiência deve ser guiada pelo percurso do participante: acesso à aplicação, menu principal, registo de peak flow, validação do valor introduzido e visualização da evolução clínica.
 
 ## CRF / eCRF
 
@@ -13,8 +21,6 @@ O formulário de recolha de dados clínicos foi desenvolvido para estruturar a r
 ## Análise do eCRF
 
 Foi realizada uma análise crítica do eCRF desenvolvido, com o objetivo de avaliar a estrutura do formulário, a adequação das variáveis recolhidas, a organização dos campos e a coerência com os objetivos do ensaio clínico.
-
-Este documento complementa o formulário de recolha de dados, permitindo justificar as opções tomadas na construção do eCRF e identificar aspetos relevantes para a qualidade e completude da recolha de dados.
 
 [Descarregar análise do eCRF](materiais/analise_ecrf_grupo7.pdf)
 
@@ -45,31 +51,31 @@ Os diagramas representam a lógica do ensaio clínico e a interação dos utiliz
 
 Este diagrama descreve o percurso dos participantes desde a identificação inicial, verificação dos critérios de elegibilidade, consentimento informado, randomização e acompanhamento ao longo das 12 semanas.
 
-![](diagrama_atividades.png){width=45%}
+![](figs/diagrama_atividades.png){width=45%}
 
 ### Fluxograma CONSORT
 
 O fluxograma CONSORT apresenta a estrutura do ensaio, incluindo elegibilidade, alocação, seguimento e análise dos participantes.
 
-![](fluxograma_consort.png){width=75%}
+![](figs/fluxograma_consort.png){width=75%}
 
 ### Diagrama de casos de uso
 
 O diagrama de casos de uso representa as principais funcionalidades da aplicação RespiRA e os atores envolvidos, nomeadamente o participante e o profissional de saúde.
 
-![](diagrama_casos_uso.png){width=75%}
+![](figs/diagrama_casos_uso.png){width=75%}
 
 ### Diagrama de utilização da aplicação
 
 Este diagrama descreve o fluxo de utilização da aplicação, desde o acesso inicial até ao registo de dados, validação da informação e atualização do histórico do utilizador.
 
-![](diagrama_utilizacao_app.png){width=55%}
+![](figs/diagrama_utilizacao_app.png){width=55%}
 
 ### Diagrama de sequências
 
 O diagrama de sequências detalha o processo de registo de peak flow, incluindo a interação entre utilizador, aplicação e base de dados.
 
-![](diagrama_sequencias.png){width=75%}
+![](figs/diagrama_sequencias.png){width=75%}
 
 ## Protótipo Figma
 

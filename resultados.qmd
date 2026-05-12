@@ -17,8 +17,12 @@ source("analise.R")
 
 A Tabela 1 apresenta as características basais dos participantes, estratificadas por grupo de estudo.
 
+Por se tratar de uma análise descritiva preliminar de um estudo piloto, as variáveis contínuas são apresentadas como média e desvio-padrão. Esta opção será revista na análise final de acordo com a distribuição das variáveis.
+
 ```{r}
 #| echo: false
+#| message: false
+#| warning: false
 tabela
 ```
 
@@ -26,7 +30,13 @@ tabela
 
 O gráfico seguinte apresenta a distribuição dos valores de ACT às 12 semanas nos grupos intervenção e controlo.
 
+Três participantes do grupo controlo não apresentavam valor de ACT às 12 semanas, refletindo follow-up incompleto. Estes valores em falta foram excluídos apenas da representação gráfica do outcome às 12 semanas.
+
 ```{r}
 #| echo: false
+#| message: false
+#| warning: false
 grafico
 ```
+
+No estudo piloto, observa-se uma tendência para valores de ACT às 12 semanas mais elevados no grupo de intervenção. No entanto, devido ao tamanho reduzido da amostra e à existência de follow-up incompleto, estes resultados devem ser interpretados de forma exploratória e não permitem concluir eficácia definitiva.
