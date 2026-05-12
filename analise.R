@@ -1,6 +1,7 @@
 ### Análise descritiva
 
 library(tidyverse)
+library(gtsummary)
 
 respira <- readr::read_csv("data/raw/respira.csv", show_col_types = FALSE)
 
