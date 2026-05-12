@@ -2,8 +2,6 @@
 title: "RespiRA"
 ---
 
-# RespiRA
-
 O RespiRA é um ensaio clínico randomizado que avalia a eficácia de uma aplicação móvel de autogestão da asma em adultos com asma moderada persistente, em contexto de cuidados de saúde primários.
 
 O objetivo principal é avaliar se a utilização da aplicação RespiRA, em associação ao cuidado habitual, melhora o controlo da asma medido pelo Asthma Control Test (ACT) às 12 semanas.
