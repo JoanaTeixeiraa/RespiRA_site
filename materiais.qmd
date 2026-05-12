@@ -12,19 +12,19 @@ Durante a demonstração, a audiência deve ser guiada pelo percurso do particip
 
 O formulário de recolha de dados clínicos foi desenvolvido para estruturar a recolha das variáveis do estudo RespiRA. Inclui informação sobre critérios de elegibilidade, caracterização basal, avaliações clínicas, outcomes, exacerbações, idas à urgência e satisfação com os cuidados recebidos.
 
-[Descarregar eCRF em PDF](materiais/ecrf_respira.pdf)
+[Descarregar eCRF em PDF](materiais/eCRF_Grupo7.pdf)
 
 ## Análise do eCRF
 
 Foi realizada uma análise crítica do eCRF desenvolvido, com o objetivo de avaliar a estrutura do formulário, a adequação das variáveis recolhidas, a organização dos campos e a coerência com os objetivos do ensaio clínico.
 
-[Descarregar análise do eCRF](materiais/analise_ecrf_grupo7.pdf)
+[Descarregar análise do eCRF](materiais/Relatório_eCRF_Grupo7.pdf)
 
 ## REDCap
 
 O projeto REDCap foi configurado para permitir a recolha estruturada dos dados do estudo. O dicionário de dados define as variáveis, tipos de campo, opções de resposta e regras de codificação utilizadas no formulário eletrónico.
 
-[Descarregar dicionário de dados REDCap](materiais/redcap_data_dictionary.csv)
+[Descarregar dicionário de dados REDCap](materiais/Dicionário_de_dadosG7.csv)
 
 ## Aplicação RespiRA
 
