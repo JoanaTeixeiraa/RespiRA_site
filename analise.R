@@ -2,6 +2,8 @@
 
 library(tidyverse)
 
+respira <- readr::read_csv("data/raw/respira.csv", show_col_types = FALSE)
+
 ##grupo e sexo (sendo varáveis qualitativas nominais são descritas com a freq absoluta e a freq relativa)
 
 table(respira$grupo)
@@ -156,3 +158,23 @@ ggplot(respira, aes(x = grupo, y = act_semana12, fill = grupo)) +
   geom_boxplot() +
   labs(title = "Boxplot do act às 12 semanas por grupo", x = "Grupo", y = "act score") 
 
+tabela <- respira %>%
+  select(grupo, sexo, idade, act_baseline, peak_flow_baseline, aqlq_semana12, adesao) %>%
+  tbl_summary(
+    by = grupo,
+    statistic = list(
+      all_continuous() ~ "{mean} ({sd})",
+      all_categorical() ~ "{n} ({p}%)"
+    ),
+    missing = "no"
+  )
+
+grafico <- ggplot(respira, aes(x = grupo, y = act_semana12, fill = grupo)) +
+  geom_boxplot() +
+  labs(
+    title = "Boxplot do ACT às 12 semanas por grupo",
+    x = "Grupo",
+    y = "ACT score"
+  ) +
+  theme_minimal() +
+  theme(legend.position = "none")
