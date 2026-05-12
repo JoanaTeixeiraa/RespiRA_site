@@ -1,21 +1,18 @@
 ---
-
 title: "RespiRA"
-
 ---
 
-\# RespiRA
+# RespiRA
 
-O RespiRA é um ensaio clínico randomizado que avalia a eficácia de uma aplicação móvel de autogestão da asma em adultos com asma moderada persistente.
+O RespiRA é um ensaio clínico randomizado que avalia a eficácia de uma aplicação móvel de autogestão da asma em adultos com asma moderada persistente, em contexto de cuidados de saúde primários.
 
 O objetivo principal é avaliar se a utilização da aplicação RespiRA, em associação ao cuidado habitual, melhora o controlo da asma medido pelo Asthma Control Test (ACT) às 12 semanas.
 
-\## Estrutura do site
+## Estrutura do site
 
-\- \[Protocolo\](protocolo.qmd)
+Este site reúne os principais elementos do projeto:
 
-\- \[Materiais\](materiais.qmd)
-
-\- \[Resultados\](resultados.qmd)
-
-\- \[Equipa\](equipa.qmd)
+- [Protocolo](protocolo.qmd): protocolo completo do ensaio clínico.
+- [Materiais](materiais.qmd): eCRF, dicionário REDCap, diagramas e protótipo da aplicação.
+- [Resultados](resultados.qmd): análise preliminar do estudo piloto.
+- [Equipa](equipa.qmd): membros do grupo, afiliação e contacto.
