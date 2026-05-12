@@ -32,6 +32,7 @@ jobs:
             any::ggplot2
             any::gtsummary
             any::gt
+            any::tidyverse
 
       - name: Render Quarto project
         run: quarto render
