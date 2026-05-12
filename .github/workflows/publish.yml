@@ -26,13 +26,7 @@ jobs:
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
           packages: |
-            any::here
-            any::readr
-            any::dplyr
-            any::ggplot2
-            any::gtsummary
-            any::gt
-            any::tidyverse
+            tidyverse
 
       - name: Render Quarto project
         run: quarto render
