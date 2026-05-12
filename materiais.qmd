@@ -86,3 +86,9 @@ Ecrãs incluídos:
 - visualização da evolução.
 
 [Ver protótipo da aplicação RespiRA no Figma](https://www.figma.com/design/IWmuWSqPlOIPMdWbxvlKT8/APP-RespiRA?node-id=0-1&m=dev&t=5FbMRS4Xi6Lhgsz1-1)
+
+## Investigator's Meeting
+
+Foi preparado material de suporte para uma apresentação de 10 a 15 minutos dirigida a investigadores e equipa clínica. A apresentação resume o racional do estudo, o desenho do ensaio, os procedimentos principais, os outcomes, os materiais de recolha de dados e a demonstração guiada do protótipo RespiRA.
+
+[Descarregar apresentação da Investigator's Meeting](materiais/investigators_meeting_grupo7.pptx)
