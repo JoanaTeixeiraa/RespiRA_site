@@ -19,3 +19,10 @@ Faculdade de Medicina da Universidade do Porto
 
 up202506371@up.pt
 
+## Declaração de Utilização de Inteligência Artificial
+
+Durante a preparação deste trabalho foram utilizadas ferramentas de inteligência artificial generativa como apoio à revisão linguística, organização do texto, conversão de conteúdos entre formatos, estruturação do site Quarto e identificação de inconsistências formais.
+
+A inteligência artificial foi utilizada como ferramenta auxiliar, não substituindo o trabalho crítico do grupo. A definição do cenário clínico, dos objetivos, do desenho metodológico, das variáveis do estudo, dos materiais e da interpretação final dos conteúdos permaneceu sob responsabilidade dos autores.
+
+Todas as sugestões produzidas foram revistas, selecionadas e adaptadas pelo grupo antes da sua integração no trabalho final.
