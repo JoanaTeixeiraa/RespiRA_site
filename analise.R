@@ -156,11 +156,53 @@ respira%>%
   )
 
 ##visualização dos dados
-ggplot(respira, aes(x = grupo, y = act_semana12, fill = grupo)) +
-  geom_boxplot() +
-  labs(title = "Boxplot do act às 12 semanas por grupo", x = "Grupo", y = "act score") 
 
-3
+tabela <- respira %>%
+  mutate(
+    exacerbaceos_12sem = as.numeric(exacerbacoes_12sem)
+  ) %>%
+  select(
+    grupo,
+    sexo,
+    idade,
+    act_baseline,
+    act_semana12,
+    peak_flow_baseline,
+    peak_flow_semana12,
+    exacerbaceos_12sem,
+    aqlq_semana12,
+    adesao
+  ) %>%
+  tbl_summary(
+    by = grupo,
+    type = list(
+      exacerbaceos_12sem ~ "continuous"
+    ),
+    statistic = list(
+      sexo ~ "{n} ({p}%)",
+      idade ~ "{median} ({p25}, {p75})",
+      act_baseline ~ "{mean} ({sd})",
+      act_semana12 ~ "{mean} ({sd})",
+      peak_flow_baseline ~ "{mean} ({sd})",
+      peak_flow_semana12 ~ "{mean} ({sd})",
+      exacerbaceos_12sem ~ "{median} ({p25}, {p75})",
+      aqlq_semana12 ~ "{mean} ({sd})",
+      adesao ~ "{mean} ({sd})"
+    ),
+    label = list(
+      sexo ~ "Sexo",
+      idade ~ "Idade",
+      act_baseline ~ "ACT no baseline",
+      act_semana12 ~ "ACT às 12 semanas",
+      peak_flow_baseline ~ "Peak flow no baseline",
+      peak_flow_semana12 ~ "Peak flow às 12 semanas",
+      exacerbaceos_12sem ~ "Exacerbações em 12 semanas",
+      aqlq_semana12 ~ "AQLQ às 12 semanas",
+      adesao ~ "Adesão à medicação"
+    ),
+    missing = "no"
+    )
+  
 
 grafico <- ggplot(respira, aes(x = grupo, y = act_semana12, fill = grupo)) +
   geom_boxplot() +
